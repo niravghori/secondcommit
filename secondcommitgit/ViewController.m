@@ -19,6 +19,9 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     NSLog(@"second commit");
+    NSLog(@"second commit test");
+
+    
 }
 
 - (void)didReceiveMemoryWarning
